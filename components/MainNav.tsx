@@ -33,7 +33,8 @@ const MainNav = (props: Props) => {
 					css={{
 						pb: "0.5rem",
 					}}
-					showIn="sm"
+					showIn="xs"
+					// hideIn="md"
 				/>
 				<NextLink passHref href="/">
 					<Text
